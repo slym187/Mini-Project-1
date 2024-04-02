@@ -1,0 +1,113 @@
+.header{
+    position: fixed;
+    top: 0;
+    height: 50px;
+    width: 100%;
+    border-bottom: 12px solid bisque;
+    background-color: rgb(17, 80, 41);
+    margin-bottom: 0px;
+
+
+}
+
+#h1 { 
+    text-align: center;
+    line-height: 125px;
+    font-size: 30pt;
+    margin-bottom: 1px;
+
+}
+
+#h2 {
+    text-align: center;
+    line-height: 25px;
+    padding-top: 1px;
+    margin-top: 2px;
+}
+
+.ul {
+    text-align:right;
+    padding-right: 75px;
+
+}
+
+#contact {
+    list-style-type: none;
+    font-size: 15px;
+    color: aliceblue;
+    display: inline;
+}
+
+#portfolio {
+list-style-type: none;
+font-size: 15px;
+color: aliceblue;
+display: inline;
+}
+
+#github {
+    list-style: none;
+    font-size: 15px;
+    color: aliceblue;
+    display: inline;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#corners {
+border-radius: 10xp;
+background-color: tan;
+padding: 20px;
+width: 100%;
+height: 250px;
+text-align: center;
+border: 2px solid rgb(143, 101, 46);
+}
+
+
+
+.mybutton {
+    background-color: rgb(17, 80, 41); 
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+}
+
+#contactm {
+    border-radius: 25px;
+    border: 2px solid rgba(231, 159, 76, 0.925);
+    padding: 20px;
+    width: 350px;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 1em;
+
+}
+
+.footer {
+    position: fixed;
+    margin-top: 0px;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(17, 80, 41);
+    text-align: center;
+    color: aliceblue;
+    border-bottom: 25px solid black;
+}
+
